@@ -22,6 +22,7 @@ Si olvido su contraseña debe dar clic en botón de login. Debajo de los campos 
 
 ![Login panel](/assets/images/login-panel.PNG)
 
+
 Al dar clic en el enlace debe ingresar el correo electrónico con el que fue registrado en el software. Posteriormente use el botón Send Email y automáticamente recibirá un correo con un enlace para que genere su nueva contraseña. Si el correo no está en su bandeja de entrada por favor revise la carpeta de spam (correo no deseado).
 
-![Login panel](/assets/images/reset-password.PNG)
+![Password reset](/assets/images/reset-password.PNG)
