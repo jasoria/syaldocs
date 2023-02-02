@@ -1,6 +1,6 @@
 # Inicio de un nuevo proyecto
 
-Al ingresar al software se deplegará la pantalla de administración de diseños. Esta pantalla tiene dos paneles. En el panel de la izquierda están los proyectos que hayamos creado y en el panel de la derecha información básica sobre estos proyectos.
+Al ingresar al software se deplegará la pantalla de administración de proyectos. Esta pantalla tiene dos paneles. En el panel de la izquierda están los proyectos que hayamos creado y en el panel de la derecha información básica sobre estos proyectos.
 
 ## Creación de un activo
 
@@ -56,7 +56,7 @@ También puede crear un campo dando clic derecho en nombre de un activo o campo 
 
 ## Creación de un pozo
 
-Puede crear un pozo con las opciones decritas en la sección [Creación de un campo](#creación-de-un-campo). Usando el botón **Add well** en el panel de información del campo, o en el menú contextual que aparace al dar clic derecho sobre el nombre de un campo existente.
+Puede crear un pozo con las opciones descritas en la sección [Creación de un campo](#creación-de-un-campo). Usando el botón **Add well** en el panel de información del campo, o en el menú contextual que aparace al dar clic derecho sobre el nombre de un campo existente.
 
 Al dar click en el botón **Add well** se abrirá una nueva pantalla para iniciar la [configuración del pozo](pozo.md)
 
