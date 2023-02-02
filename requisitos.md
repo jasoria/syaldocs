@@ -15,3 +15,13 @@ https://syal.sertecpet.net
 Todos los usuarios reciben una licencia para usar el software durante un año, contado a partir de la fecha de registro del nuevo usuario. Cuando haya pasado el tiempo de vigencia, el acceso a la aplicación será bloqueado automáticamente y deberá solicitar la renovación de la misma al correo syalsupport@sertecpet.net
 
 La licencia se renovará por un año mas si el solicitante continúa siendo colaborador o cliente de SERTECPET.
+
+## Nueva contraseña
+
+Si olvido su contraseña debe dar clic en botón de login. Debajo de los campos para ingresar su nombre de usuario y contraseña tiene disponible el enlace "Don't remember you password?".
+
+![Login panel](/assets/images/login-panel.PNG)
+
+Al dar clic en el enlace debe ingresar el correo electrónico con el que fue registrado en el software. Posteriormente use el botón Send Email y automáticamente recibirá un correo con un enlace para que genere su nueva contraseña. Si el correo no está en su bandeja de entrada por favor revise la carpeta de spam (correo no deseado).
+
+![Login panel](/assets/images/reset-password.PNG)
