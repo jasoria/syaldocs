@@ -1,1 +1,2 @@
-# Creación de un nuevo pozo
+# Configuración del pozo
+
