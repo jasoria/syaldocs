@@ -36,8 +36,37 @@ En este panel ingresamos la información para identificar el pozo. Los campos ob
   
 #### Artificial lift system
 
-* Hydraulic jet pump: Cálculo de pozo productor con levantamiento artificial con jet pump de fondo
-* Surface ejector: Cálculo de bomba jet de superficie. Al seleccionar esta el software no usa la información del completamiento del pozo
+* Hydraulic jet pump: Cálculo de pozo productor con levantamiento artificial con jet pump de fondo.
+* Surface ejector: Cálculo de jet pump de superficie. Al seleccionar esta el software no usa la información del completamiento del pozo.
+  
+### Fluid settings
+
+#### Fluid
+
+* Oil and water: Flujo de petróleo y agua como fases principales
+  
+#### PVT model
+
+* Black oil: Modelo empírico para determinar las propiedades físicas del fluido. Este modelo asume que la composición del petróleo y gas no cambia con la presión y la temperatura. El modelo black oil no puede predecir fenómenos de condensación retrógrada. Por lo tanto no debe ser usado para petróleos volátiles o condensados de gas[^1].
+  
+## Flow correlations
+
+#### Single phase flow
+
+* Moody:
+  
+#### Multiphase flow
+
+* Beggs & Brill:
+* Hagedorn & Brown:
+* Duns & Ros:
+* Orkiszewski:
+  
+
+  
+
+[^1]: Al-Safran, E. M., & Brill, J. P. (2017). Applied multiphase flow in pipes and flow assurance: oil and gas production.
+
 
 
 
